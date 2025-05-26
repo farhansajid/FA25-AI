@@ -1,11 +1,10 @@
 # MLFlow Project
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) 
-![VS Code Logo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Visual_Studio_Code_1.35_icon.svg) 
-![Miniconda Logo](https://docs.conda.io/projects/conda/en/latest/_images/conda_logo.svg)  
-![Pip Logo](https://upload.wikimedia.org/wikipedia/commons/1/1e/Pip_logo.svg) 
-![MLFlow Logo](https://mlflow.org/images/logo.svg)  
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40"/>  
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="40"/>  
+<img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" alt="Miniconda Logo" width="40"/>  
+<img src="https://pypi.org/static/images/logo-small.95de8436.svg" alt="Pip Logo" width="40"/>  
+<img src="https://mlflow.org/images/logo.svg" alt="MLFlow Logo" width="40"/>  
 ## Overview
 
 Welcome to the **MLFlow Project**! This project demonstrates how to set up a Python development environment and use **MLFlow** for machine learning workflows.
