@@ -149,7 +149,7 @@ Students can pick from 50+ use cases provided in the YOLOv8 Lab PDF. Some ideas:
 - 🛒 Retail Theft Detection
 - 🏫 Smart Classroom Monitoring
 
-📄 **[View Full List (PDF)](../Yolo%20Algorithm%20-%20Lab.pdf)**
+📄 **[View Full List (PDF)] (https://github.com/Jamil226/SP25-AI/blob/main/Lab-07%20-%20Computer%20Vision/YOLOv8/Yolo%20Algorithm%20-%20Lab.pdf)**
 
 ---
 
