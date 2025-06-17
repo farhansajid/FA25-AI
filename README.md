@@ -19,17 +19,36 @@
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-FFD43B.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
+---
 
 # AI Course - Lab Work
 
 Welcome to the AI Labs! This repository contains the lab work for the course, covering fundamental and advanced Python programming, data structures, searching and sorting algorithms, data analysis with Pandas and NumPy, web scraping, digital image processing using OpenCV, and machine learning model tracking with MLFlow. Additionally, it explores large language model fine-tuning with Hugging Face, enabling students to gain hands-on experience in AI-driven applications. This structured curriculum ensures a comprehensive understanding of AI, programming, and data science techniques, preparing students for real-world problem-solving.
 
+---
+
+## Teaching Methodology
+
+- **Project-based Learning**
+- **Inquiry-based Learning**
+- **Place-based Learning**
+- **Flipped Classroom**
+- **Blended Learning**
+- **Audio-video Visual Aids**
+- **Technology-based Learning (eLearning)**
+- **Problem-based Learning**
+- **Individual Learning**
+
+---
+
 ### Lab-0: Python Fundamentals
+
 - IDE Setup
 - Python Virtual Environment
 - VS Code Shortcuts
 
 ### Lab-01: Python Fundamentals
+
 - Python Basics
 - Variables, data types, String Formatting, Operators
 - Control structures: if-else, loops
@@ -40,6 +59,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - Functions Assignment
 
 ### Lab-02: Python Advanced
+
 - Python Imports (Modules and Packages, Standard Library Overview)
 - Packages Assignment
 - File Handling (File Operations, File Paths)
@@ -57,6 +77,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - OOPs Assignment
 
 ### Lab-03: Searching & Sorting
+
 - Linear Search
 - Binary Search
 - Bubble Sort
@@ -64,6 +85,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - Pathfinding in Maps using DFS
 
 ### Lab-04: Data Analysis
+
 - Dataset Analysis
   - Reading data from CSV files.
   - Overview of Dataset
@@ -124,6 +146,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
   - Plotting the Hottest Days
 
 ### Lab-05: LLM Fine Tuning with HuggingFace
+
 - Introduction to Hugging Face
 - Using pre-trained models for text summarization
 - Implementing text summarization using Hugging Face transformers
@@ -131,6 +154,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - Evaluating summarization results
 
 ### Lab-06: Web Scrapping
+
 - Web Scrapping using BeatifulSoup
 - Basic Workflow of Web Scraping
 - How to Add a User-Agent Header
@@ -142,6 +166,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
   - Extracting the data from Elements and Selectors
 
 ### Lab-07: Digital Image Processing using OpenCV
+
 - OpenCV Overview
 - RGB to Grayscale
 - Guassian Blue
@@ -149,6 +174,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - Object Detection through Template and Frame using CV2
 
 ### Lab-08: MLFLow Part I
+
 - Introduction To MLFLOW
 - Getting Started With MLFLOW
 - Creating MLFLOW Environment
@@ -159,8 +185,8 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - Inferencing Model Artifacts With MLFlow Inferencing
 - MLFLOW Model Registry Tracking
 
-
 ### Lab-09: MLFLow Part II
+
 - ML Project Integration With MLFLOW Tracking
   - Data Preparation House Price Prediction
   - Model Building And MLFLOW Tracking
@@ -168,12 +194,15 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
   - ANN With MLFLOW
 
 ### Lab 10: MLFLOW With AWS Cloud
+
 - Content In process
 
 ## How to Use This Repository
+
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Jamil226/SP25-AI
+   ```
 
 ## Contributing
 
