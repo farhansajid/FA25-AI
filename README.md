@@ -195,13 +195,13 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 
 ### Lab 10: MLFLOW With AWS Cloud
 
-- Content In process
+- Content in process
 
 ## How to Use This Repository
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Jamil226/SP25-AI
+   git clone https://github.com/farhansajid/FA25-AI
    ```
 
 ## Contributing
@@ -209,7 +209,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-For queries please email me at: jamil138.amin@gmail.com
+For queries, please email me at: jamil138.amin@gmail.com
 
 ## Licenses
 
